@@ -61,5 +61,3 @@ You can use standard embedded file systems directly out of the box:
 │   ├── STM32_SPI_FatFs_Example/    # Basic FatFs read/write demo
 │   └── ESP32_SDIO_Logger/          # High-speed data logging code
 └── README.md                       # Documentation
-<img width="1494" height="1320" alt="3ae33921-cc36-475d-b669-94469290c1f1" src="https://github.com/user-attachments/assets/f8386e9b-6eda-48f1-b76d-c17364ba580e" />
-<img width="1557" height="1307" alt="2e676097-0653-443a-882b-b64d717dfce9" src="https://github.com/user-attachments/assets/85d3a28b-aafd-49bc-8ddb-209e14552360" />
